@@ -3,20 +3,20 @@ clear
 echo 'Удаление мусорных программ'
 sleep 3
 sudo dnf remove -y cheese \
-mediawriter
-onlyoffice*
-rhythmbox
-gnome-weather
-gnome-maps
-gnome-help
-gnome-tour
-gnome-contacts
-gnome-photos
-totem
-gnome-connections
+mediawriter \
+libreoffice* \
+rhythmbox \
+gnome-weather \
+gnome-maps \
+gnome-help \
+gnome-tour \
+gnome-contacts \
+gnome-photos \
+totem \
+gnome-connections \
 echo ''
 echo 'Удаление завершено, идет очистка'
-sudo dnf autoremove
+sudo dnf autoremove -y
 sudo dnf clean all
 sleep 3
 clear
