@@ -62,6 +62,7 @@ neofetch \
 python3-pip \
 p7zip \
 gparted \
+papirus-icon-theme
 echo ''; clear
 echo 'Установка с репозиториев завершена'
 echo 'Скачивание и установка отдельных пакетов...'
