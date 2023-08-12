@@ -6,5 +6,20 @@ sleep 3; clear
 echo '[|]';sleep 0.5; clear
 echo '[/]'; sleep 0.5; clear
 echo '[--]'; sleep 0.5; clear
+echo '[\]';sleep 0.5; clear
+echo '[|]'; sleep 0.5; clear
 echo '[|]';sleep 0.5; clear
-echo '[\]'; sleep 0.5; clear
+echo '[/]'; sleep 0.5; clear
+echo '[--]'; sleep 0.5; clear
+echo '[\]';sleep 0.5; clear
+echo '[|]'; sleep 0.5; clear
+echo '[|]';sleep 0.5; clear
+echo '[/]'; sleep 0.5; clear
+echo '[--]'; sleep 0.5; clear
+echo '[\]';sleep 0.5; clear
+echo '[|]'; sleep 0.5; clear
+echo '[|]';sleep 0.5; clear
+echo '[/]'; sleep 0.5; clear
+echo '[--]'; sleep 0.5; clear
+echo '[\]';sleep 0.5; clear
+echo '[|]'; sleep 0.5; clear
